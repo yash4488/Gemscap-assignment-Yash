@@ -3,7 +3,8 @@
 ## Overview
 This project is a real-time quantitative analytics dashboard designed to ingest live tick data from
 Binance WebSocket streams, store it locally, compute statistical arbitrage analytics, and visualize
-results interactively.
+results interactively.[streamlit-dashboard-2025-12-17-00-12-30.webm](https://github.com/user-attachments/assets/44d01474-5aea-4609-b63c-c247ceb3e949)
+
 
 The system demonstrates an end-to-end workflow from live market data ingestion to analytics,
 alerting, and export, built with a modular and extensible design.
